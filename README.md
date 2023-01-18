@@ -8,7 +8,11 @@ I master theoretical concepts and their industry applications using Python and T
 AI is transforming many industries. The Deep Learning Specialization provides me a pathway to take the definitive step in the world of AI by helping me gain the knowledge and skills to level up my career.
 
 
+![nn](https://media.giphy.com/media/9N2UvCx7wXLnG/giphy.gif)
+
+
 After few weeks of training, this is what i got :
+
 • Build and train deep neural networks, implement vectorized neural networks, identify architecture parameters, and apply DL to my applications
 
 • Use best practices to train and develop test sets and analyze bias/variance for building DL applications, use standard NN techniques, apply optimization algorithms, and implement a neural network in TensorFlow
@@ -21,15 +25,20 @@ After few weeks of training, this is what i got :
 
 
 ## Skills covered and its notebooks:
-1. [Neural Networks and Deep Learning]
+### 1️⃣ Neural Networks and Deep Learning
+[Neural Networks and Deep Learning]
 ().
-2. [mproving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
+### 2️⃣ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
 ().
-3. [Structuring Machine Learning Projects]
+### 3️⃣ Structuring Machine Learning Projects
+[Structuring Machine Learning Projects]
 ().
-4. [Convolutional Neural Networks]
+### 4️⃣ Convolutional Neural Networks
+[Convolutional Neural Networks]
 ().
-5. [Sequence Models]
+### 5️⃣ Sequence Models
+[Sequence Models]
 ().
 
 
