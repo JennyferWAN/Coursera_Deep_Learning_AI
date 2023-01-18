@@ -24,22 +24,33 @@ After few weeks of training, this is what i got :
 • Build and train Recurrent Neural Networks and its variants (GRUs, LSTMs), apply RNNs to character-level language modeling, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformers to perform Named Entity Recognition and Question Answering
 
 
+
 ## Skills covered and its notebooks:
 ### 1️⃣ Neural Networks and Deep Learning
-[Neural Networks and Deep Learning]
-().
+1. [Logistic Regression with a Neural Network mindset](https://github.com/JennyferWAN/Coursera_Deep_Learning_AI/blob/353fa33f961967359b80485a7688d28b074d0358/Neural_Networks/S2_Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+2. [Python Basics with Numpy](https://github.com/JennyferWAN/Coursera_Deep_Learning_AI/blob/353fa33f961967359b80485a7688d28b074d0358/Neural_Networks/S2_Python_Basics_with_Numpy.ipynb)
+3. [Planar data classification with one hidden layer](https://github.com/JennyferWAN/Coursera_Deep_Learning_AI/blob/353fa33f961967359b80485a7688d28b074d0358/Neural_Networks/S3_Planar_data_classification_with_one_hidden_layer.ipynb)
+4. [Building your Deep Neural Network Step by Step](https://github.com/JennyferWAN/Coursera_Deep_Learning_AI/blob/353fa33f961967359b80485a7688d28b074d0358/Neural_Networks/S4_Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+5. [Deep Neural Network - Application](https://github.com/JennyferWAN/Coursera_Deep_Learning_AI/blob/353fa33f961967359b80485a7688d28b074d0358/Neural_Networks/S4_Deep%20Neural%20Network%20-%20Application.ipynb)
+
+
 ### 2️⃣ Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]
-().
+
+
+
 ### 3️⃣ Structuring Machine Learning Projects
-[Structuring Machine Learning Projects]
-().
+
+
+
 ### 4️⃣ Convolutional Neural Networks
-[Convolutional Neural Networks]
-().
+
+
+
 ### 5️⃣ Sequence Models
-[Sequence Models]
-().
+
+
+
+
 
 
 ### Author :
